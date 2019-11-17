@@ -1,0 +1,37 @@
+
+.kotak_login{
+	text-align: center;
+	margin: 80px auto;
+	padding: 30px 20px;
+}
+.form_login{
+	box-sizing : border-box;
+	width: 180px;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+	border-radius: 19px;
+	border-color: blue;
+	font-weight: bolder;
+}
+label{
+	font-weight: bolder;
+}
+.tombol_masuk{
+	width: 90px;
+	height: 40px;
+	border-radius: 23px;
+	background: blue;
+}
+p{
+	text-align: center;
+	font-weight: bolder;
+}
+.alert{
+	text-align: center;
+	color: red;
+	font-weight: bolder;
+}
+a .link{
+	background: blue;
+}
